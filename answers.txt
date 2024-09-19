@@ -15,3 +15,10 @@ substantial data about different players, teams, etc. and analysts are
 interested in analyzing the data to draw insights. They may want to analyze
 the data to make predictions on the success of players or teams or to
 determine whether rules need to be changed to improve safety.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging creates a new commit with all of the changes of one branch,
+combined with the current branch. Rebasing takes all the changes of the
+mainline and moves them into the feature branch, so that your feature branch
+will be the most recent commit.
