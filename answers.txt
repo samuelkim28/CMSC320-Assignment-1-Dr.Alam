@@ -22,3 +22,10 @@ Answer: Merging creates a new commit with all of the changes of one branch,
 combined with the current branch. Rebasing takes all the changes of the
 mainline and moves them into the feature branch, so that your feature branch
 will be the most recent commit.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my knowledge of Git because it was important to
+understand for my most recent internship where I was making changes to the
+existing code. I also would like to get better with SQL so that I can easily
+query databases to draw interesting insights.
