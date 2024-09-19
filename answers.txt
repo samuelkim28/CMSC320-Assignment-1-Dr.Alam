@@ -1,0 +1,8 @@
+Q1: Why might we consider using git?
+
+Answer: Git facilitates the development process by allowing developers to
+commit snapshots of their project and make changes to the existing files and
+code without breaking things. This may be useful for the group project where
+multiple people are working on the same project, but may want to create
+branches to develop code without breaking the existing code. It also helps you
+keep track of the different versions of the project as you work.
